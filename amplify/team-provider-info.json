@@ -10,6 +10,11 @@
       "StackName": "amplify-rnamplify-dev-122055",
       "StackId": "arn:aws:cloudformation:us-west-2:879508772190:stack/amplify-rnamplify-dev-122055/38ae1e70-9256-11eb-ba8a-026e7e7dba9b",
       "AmplifyAppId": "dasy2dgpbtv3p"
+    },
+    "categories": {
+      "auth": {
+        "rnamplifyd5160dee": {}
+      }
     }
   }
 }

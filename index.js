@@ -1,5 +1,7 @@
+// If you run into problems, make sure the import config is tied to where the aws exports is
+
 import Amplify from 'aws-amplify'
-import config from './aws-exports'
+import config from './src/aws-exports'
 Amplify.configure(config)
 
 /**
